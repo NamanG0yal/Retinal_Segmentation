@@ -19,7 +19,7 @@ This repository contains the implementation of an advanced algorithm for automat
 ## Methodology
 
 ### 1. Dataset
-- **Source:** SD-OCT images from 45 eyes (25 AMD-diagnosed, 20 healthy) collected at Doheny-UCLA Eye Centers.
+- **Source:** SD-OCT images from 45 eyes (25 AMD-diagnosed, 20 healthy) .
 - **Preprocessing:** Images were resized to standard dimensions for consistent analysis.
 
 ### 2. Algorithm Design
